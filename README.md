@@ -16,7 +16,6 @@ This is my personal portfolio website built using HTML and CSS.
 - JavaScript
 
 ## Live Demo
-Add your Netlify link here:
 https://https://tejal-portfolioo.netlify.app/
 
 ## Author
